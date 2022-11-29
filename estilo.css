@@ -1,0 +1,51 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    
+
+}
+
+.home{
+    margin: 30px;
+    border-radius: 10%;
+}
+
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cadetblue;
+    text-align: center;
+    padding: 20px;
+
+}
+
+.menu{
+    background-color: antiquewhite;
+
+}
+
+button{
+    font-size: 20px;
+    margin: 5%;
+    width: 15rem;
+    height: 10rem;
+    border-radius: 20px;
+    
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+footer{
+    padding: 20px;
+}
+
+
+
